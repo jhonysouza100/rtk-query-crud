@@ -13,4 +13,4 @@ para crear la json API en el puerto "`localhost:5174`"
 
 ```
 npm run db
-```# rtk-query-crud
+```
